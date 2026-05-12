@@ -457,7 +457,7 @@ Prediction Time:  <100ms
 
 ### ⭐ If you find this project helpful, please star it!
 
-**Made with ❤️ by Osama Ghaffar Khan**
+**Made with ❤️ by Osama Ghaffar**
 
 [⬆ Back to Top](#-diabetes-prediction-ai-system)
 
