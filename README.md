@@ -333,7 +333,7 @@ We welcome contributions! Here's how to help:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/Diabetes.git
+   git clone https://github.com/SAMAGHAFFARTKOJL/Diabetes.git
    ```
 
 2. **Create Feature Branch**
@@ -397,68 +397,3 @@ We welcome contributions! Here's how to help:
 - [ ] Risk stratification levels
 - [ ] Comparison with population statistics
 
----
-
-## 📧 Contact & Support
-
-- **Author:** Osama Ghaffar Khan
-- **Email:** gravitaskhan@gmail.com
-- **LinkedIn:** [The Amir Khan](https://www.linkedin.com/in/the-amir-khan/)
-- **GitHub:** [OSAMAGHAFFARTKOJL](https://github.com/OSAMAGHAFFARTKOJL)
-
-### Getting Help
-- 📖 Check the [Documentation](README.md)
-- 🐛 Report issues on GitHub Issues
-- 💬 Start a discussion for questions
-- 📧 Email for collaboration inquiries
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### You are free to:
-- ✅ Use commercially
-- ✅ Modify and distribute
-- ✅ Use privately
-- ✅ Sublicense
-
-### You must:
-- ✅ Include license notice
-- ✅ State changes made
-
----
-
-## 🙏 Acknowledgments
-
-- **Dataset:** Pima Indians Diabetes Database (UCI Machine Learning Repository)
-- **Framework:** Streamlit team for the amazing visualization library
-- **Libraries:** scikit-learn, pandas, plotly communities
-- **Inspiration:** Healthcare ML community
-
----
-
-## 📊 Project Statistics
-
-```
-Lines of Code:     450+
-Functions:         20+
-Visualizations:    10+
-Pages:            4
-ML Models:        1
-Data Records:     768
-Prediction Time:  <100ms
-```
-
----
-
-<div align="center">
-
-### ⭐ If you find this project helpful, please star it!
-
-**Made with ❤️ by Osama Ghaffar**
-
-[⬆ Back to Top](#-diabetes-prediction-ai-system)
-
-</div>
